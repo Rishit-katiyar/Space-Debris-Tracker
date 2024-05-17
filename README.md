@@ -9,6 +9,7 @@ Welcome to the Space Debris Tracker repository! This project provides a real-tim
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Commit History](#commit-history)
 
 ## Introduction
 
